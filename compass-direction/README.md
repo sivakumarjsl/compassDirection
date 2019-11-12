@@ -32,3 +32,6 @@ if(userFacingDirection) {
 you can refernce https://developers.google.com/maps/documentation/javascript/geometry for this line
 'window.google.maps.geometry.spherical.computeHeading(point1, point2)'
 
+
+Contact-me: `sivakumarjegadesan@gmail.com`
+
